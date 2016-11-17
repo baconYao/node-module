@@ -44,3 +44,6 @@ Nodejs notes
 	*	[mongodb-conn.js](https://github.com/baconYao/node-module/blob/master/mongodb/mongodb-conn.js)
 	*	[mongodb-conn-collection.js](https://github.com/baconYao/node-module/blob/master/mongodb/mongodb-conn-collection.js)
 	*	[mongodb-conn-collection-find.js](https://github.com/baconYao/node-module/blob/master/mongodb/mongodb-conn-collection-find.js)
+	*	[mongodb-conn-collection-createConnection.js](https://github.com/baconYao/node-module/blob/master/mongodb/mongodb-conn-collection-createConnection.js)
+	*	[mongodb-conn-collection-insert.js](https://github.com/baconYao/node-module/blob/master/mongodb/mongodb-conn-collection-insert.js)
+	*	[mongodb-conn-collection-remove.js](https://github.com/baconYao/node-module/blob/master/mongodb/mongodb-conn-collection-remove.js)
