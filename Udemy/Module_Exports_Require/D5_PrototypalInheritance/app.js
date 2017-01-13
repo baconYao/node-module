@@ -9,8 +9,14 @@ Person.prototype.greet = function() {
 	console.log('Hello, ' + this.firstname + ' ' + this.lastname);
 };
 
+Person.prototype.oh = function() {
+    console.log('OH, ' + this.firstname + '!!');
+};
+
+
 var john = new Person('John', 'Doe');
 john.greet();
+john.oh();
 
 var jane = new Person('Jane', 'Doe');
 jane.greet();

@@ -1,7 +1,7 @@
 var greetings = require('./greetings.json');
 
-var greet = function() {
+var greettt = function() {
 	console.log(greetings.en);
 }
 
-module.exports = greet;
+module.exports = greettt;
